@@ -8,7 +8,7 @@ It is designed for any job seeker, regardless of country, profession, language, 
 
 ## Project Status
 
-**Local release candidate — publication pending.**
+**Public reference release.**
 
 The repository contains architecture documents, agent specifications, workflows, templates, evaluation tools, and fully synthetic examples. It is not a deployed agent service or an automated job-application platform.
 
