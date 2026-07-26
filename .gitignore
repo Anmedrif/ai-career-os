@@ -1,0 +1,38 @@
+# Secrets and private configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+private/
+private-review/
+
+# Private or generated career artifacts
+*.docx
+*.pdf
+*.zip
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Local tools and build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
